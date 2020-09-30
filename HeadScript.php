@@ -1,6 +1,6 @@
 <?php
 
-$wgExtensionCredits[$type][] = array(
+$wgExtensionCredits['other'][] = array(
         'path' => __FILE__,
         'name' => "HeadScript",
         'description' => "Allows Scripts to be added just before </head> to the wiki as configured in the LocalSettings.php file.",
