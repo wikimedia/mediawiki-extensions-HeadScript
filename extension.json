@@ -1,0 +1,35 @@
+{
+	"name": "HeadScript",
+	"version": "1.1.0",
+	"author": [
+		"JinRyuu",
+		"StarHeartHunt"
+	],
+	"url": "http://www.mediawiki.org/wiki/Extension:HeadScript",
+	"descriptionmsg": "headscript-desc",
+	"type": "other",
+	"license-name": "MIT",
+	"MessagesDirs": {
+		"HeadScript": [
+			"i18n"
+		]
+	},
+	"Hooks": {
+		"BeforePageDisplay": [
+			"HeadScript::BeforePageDisplay"
+		]
+	},
+	"AutoloadClasses": {
+		"HeadScript": "HeadScript.class.php"
+	},
+	"config_prefix": "wg",
+	"config": {
+		"HeadScriptCode": {
+			"value": "<!-- No Head Script -->"
+		},
+		"HeadScriptName": {
+			"value": "<!-- No Script Name -->"
+		}
+	},
+	"manifest_version": 2
+}
