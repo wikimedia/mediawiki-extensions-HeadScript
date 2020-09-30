@@ -1,3 +1,3 @@
 {
-  "headscript-desc": "Allows Scripts to be added just before </head> to the wiki as configured in the LocalSettings.php file."
+  "headscript-desc": "允许向wiki页面的<code><head></code>标签引入LocalSettings.php中配置的JavaScript/CSS内容。"
 }
