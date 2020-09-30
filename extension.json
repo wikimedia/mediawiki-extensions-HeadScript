@@ -1,9 +1,9 @@
 {
 	"name": "HeadScript",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"author": [
-		"JinRyuu",
-		"StarHeartHunt"
+		"[https://www.mediawiki.org/wiki/User:JinRyuuNagy JinRyuu]",
+		"[https://www.mediawiki.org/wiki/User:StarHeartHunt StarHeartHunt]"
 	],
 	"url": "http://www.mediawiki.org/wiki/Extension:HeadScript",
 	"descriptionmsg": "headscript-desc",
