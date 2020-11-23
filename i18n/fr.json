@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wladek92"
+		]
+	},
+	"headscript-desc": "Permet d'ajouter des scripts juste avant </head> sur le wiki, comme configuré dans le fichier LocalSettings.php ."
+}
