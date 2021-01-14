@@ -7,7 +7,7 @@ $wgExtensionCredits['other'][] = array(
 //      'descriptionmsg' => "",
         'version' => 1.0,
         'author' => "JinRyuu",
-        'url' => "http://www.mediawiki.org/wiki/Extension:HeadScript",
+        'url' => "https://www.mediawiki.org/wiki/Extension:HeadScript",
 );
 
 

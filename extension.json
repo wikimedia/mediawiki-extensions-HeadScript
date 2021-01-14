@@ -5,9 +5,12 @@
 		"[https://www.mediawiki.org/wiki/User:JinRyuuNagy JinRyuu]",
 		"[https://www.mediawiki.org/wiki/User:StarHeartHunt StarHeartHunt]"
 	],
-	"url": "http://www.mediawiki.org/wiki/Extension:HeadScript",
+	"url": "https://www.mediawiki.org/wiki/Extension:HeadScript",
 	"descriptionmsg": "headscript-desc",
 	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
 	"license-name": "MIT",
 	"MessagesDirs": {
 		"HeadScript": [
