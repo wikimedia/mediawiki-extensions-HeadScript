@@ -1,28 +1,14 @@
 <?php
-
-$wgExtensionCredits['other'][] = array(
-        'path' => __FILE__,
-        'name' => "HeadScript",
-        'description' => "Allows Scripts to be added just before </head> to the wiki as configured in the LocalSettings.php file.",
-//      'descriptionmsg' => "",
-        'version' => 1.0,
-        'author' => "JinRyuu",
-        'url' => "https://www.mediawiki.org/wiki/Extension:HeadScript",
-);
-
-
-//Explicitly defining global variables
-
-$wgHeadScriptCode = '<!-- No Head Script -->';
-$wgHeadScriptName = '<!-- No Script Name -->';
-
-//Code for adding the head script to the wiki
-
-$wgHooks['BeforePageDisplay'][] = 'HeadScript';
-function HeadScript( OutputPage &$out, Skin &$skin ) {
-	global $wgHeadScriptCode, $wgHeadScriptName;
-	
-	$out->addHeadItem($wgHeadScriptName, $wgHeadScriptCode );
-
-	return TRUE;
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'HeadScript' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['HeadScript'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for the HeadScript extension. ' .
+		'Please use wfLoadExtension() instead, ' .
+		'see https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the HeadScript extension requires MediaWiki 1.29+' );
 }
