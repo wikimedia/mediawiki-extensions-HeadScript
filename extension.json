@@ -19,11 +19,11 @@
 	},
 	"Hooks": {
 		"BeforePageDisplay": [
-			"HeadScript::BeforePageDisplay"
+			"HeadScript::onBeforePageDisplay"
 		]
 	},
 	"AutoloadClasses": {
-		"HeadScript": "HeadScript.class.php"
+		"HeadScript": "src/HeadScript.php"
 	},
 	"config_prefix": "wg",
 	"config": {
