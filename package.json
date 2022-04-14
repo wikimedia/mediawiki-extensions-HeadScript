@@ -1,4 +1,5 @@
 {
+	"name": "HeadScript",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
