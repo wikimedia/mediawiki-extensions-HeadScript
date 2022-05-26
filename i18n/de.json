@@ -1,0 +1,6 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"headscript-desc": "Ermöglicht das Hinzufügen von Skripten direkt vor <code>&lt;/head&gt;</code> zum Wiki, wie in der Datei LocalSettings.php konfiguriert."
+}
