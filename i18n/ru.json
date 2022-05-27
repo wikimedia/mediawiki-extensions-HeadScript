@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rubin16"
+			"Rubin16",
+			"WindEwriX"
 		]
 	},
-	"headscript-desc": "Разрешает скриптам быть добавленными прямо перед </head> В соответствии с настройками LocalSettings.php."
+	"headscript-desc": "Разрешает скриптам быть добавленными прямо перед <code>&lt;/head&gt;</code> В соответствии с настройками LocalSettings.php."
 }

@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"GuoPC"
+		]
 	},
-	"headscript-desc": "允许向wiki页面的<code><head></code>标签引入LocalSettings.php中配置的JavaScript/CSS内容。"
+	"headscript-desc": "允许向wiki的<code></head></code>标签之前加入LocalSettings.php文件中配置的脚本。"
 }
