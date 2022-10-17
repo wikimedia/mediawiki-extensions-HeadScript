@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"headscript-desc": "מאפשר להוסיף סקריפטים לוויקי ממש לפני <code>&lt;/head&gt;</code> כפי שמוגדר בקובץ LocalSettings.php."
+}
