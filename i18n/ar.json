@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"headscript-desc": "يسمح بإضافة البرامج النصية قبل <code></head></code> إلى wiki كما تم تكوينه في ملف LocalSettings.php."
+}
