@@ -4,5 +4,5 @@
 			"Hamilton Abreu"
 		]
 	},
-	"headscript-desc": "Permite que sejam adicionados conjuntos de comandos imediatamente antes do </head> da wiki, ''(head scripts)'', como for configurado no ficheiro LocalSettings.php."
+	"headscript-desc": "Permite que sejam adicionados conjuntos de comandos imediatamente antes do <code>&lt;/head&gt;</code> da wiki, ''(head scripts)'', como for configurado no ficheiro LocalSettings.php."
 }
