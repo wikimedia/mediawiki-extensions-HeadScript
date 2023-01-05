@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"headscript-desc": "Omogoča dodaanje skriptov v viki tik pred <code>&lt;/head&gt;</code>, kot je konfigurirano v datoteki LocalSettings.php."
+}
