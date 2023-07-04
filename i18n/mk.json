@@ -4,5 +4,5 @@
 			"Bjankuloski06"
 		]
 	},
-	"headscript-desc": "Овозможува додавање на скрипти веднаш пред </head> кон викито според поставеното во податотеката LocalSettings.php."
+	"headscript-desc": "Овозможува додавање на скрипти веднаш пред <code>&lt;/head&gt;</code> кон викито според поставеното во податотеката LocalSettings.php."
 }
