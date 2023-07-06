@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"headscript-desc": "Lar skript legges til like før <code>&lt;/head&gt;</code> som konfigurert i LocalSettings.php."
+}
