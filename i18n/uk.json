@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"DDPAT",
-			"Ice bulldog"
-		]
-	},
-	"headscript-desc": "Дозволяє додавати скрипти безпосередньо перед </head> до вікі, як це налаштовано у файлі LocalSettings.php."
-}
