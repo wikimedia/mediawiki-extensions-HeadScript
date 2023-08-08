@@ -4,5 +4,5 @@
 			"Kly"
 		]
 	},
-	"headscript-desc": "依照在 LocalSettings.php 檔案的設定，允許添加腳本在 </head> 前方到 wiki 裡。"
+	"headscript-desc": "依照在 LocalSettings.php 檔案的設定，允許添加腳本在 <code>&lt;/head&gt;</code> 前方到 wiki 裡。"
 }
