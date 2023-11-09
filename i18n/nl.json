@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"headscript-desc": "Maakt het mogelijk dat scripts direct vóór <code>&lt;/head&gt;</code> worden toegevoegd aan de wiki zoals ingesteld in het bestand LocalSettings.php."
+}
