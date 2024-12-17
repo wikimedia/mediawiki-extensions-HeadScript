@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"headscript-desc": "Permite engadir scripts ao wiki xusto antes da etiqueta <code>&lt;/head&gt;</code> tal e como se configura no ficheiro LocalSettings.php."
+}
