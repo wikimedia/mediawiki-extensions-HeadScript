@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"MuratTheTurkish",
-			"Vito Genovese"
+			"Vito Genovese",
+			"SaldırganSincap"
 		]
 	},
-	"headscript-desc": "LocalSettings.php dosyası yapılandırması uyarınca </head> etiketinin hemen öncesine yerleştirilen betiklerin vikiye eklenmesine izin verir."
+	"headscript-desc": "LocalSettings.php dosyası yapılandırması uyarınca <code>&lt;/head&gt;</code> etiketinin hemen öncesine yerleştirilen betiklerin vikiye eklenmesine izin verir."
 }
