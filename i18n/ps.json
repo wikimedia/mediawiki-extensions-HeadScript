@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"headscript-desc": "سکريپټونو ته اجازه ورکوي چې له <code>&lt;/head&gt;</code> څخه مخکې ويکي ته ورگډ شي لکه څنگه چې په LocalSettings.php کې ترتيب شوې دي."
+}
