@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stefan2255"
+		]
+	},
+	"headscript-desc": "Tillåter att skript läggs till precis före <code>&lt;/head&gt;</code> till wikin enligt konfigurationen i LocalSettings.php-filen."
+}
