@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tensama0415"
+		]
+	},
+	"headscript-desc": "LocalSettings.php 파일에 설정된 대로 위키의 <code>lt;/head&gt;</code> 바로 앞에 스크립트를 추가합니다."
+}
