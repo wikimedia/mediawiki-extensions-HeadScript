@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"headscript-desc": "Umožňuje pridávať skripty tesne pred <code>&lt;/head&gt;</code> na wiki podľa nastavenia v súbore LocalSettings.php."
+}
